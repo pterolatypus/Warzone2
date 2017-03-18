@@ -1,4 +1,4 @@
-class TW {
-  tag = "TW";
+class WZ2 {
+  tag = "WZ2";
   #include "Core\CfgFunctions.hpp"
 };

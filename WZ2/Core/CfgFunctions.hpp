@@ -1,4 +1,4 @@
 class Core {
-  file = "TW\Core\functions";
+  file = "WZ2\Core\functions";
   class testfunc {};
 };

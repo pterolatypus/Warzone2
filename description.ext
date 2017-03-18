@@ -1,0 +1,9 @@
+OnLoadMission = "Procedurally generated all-out war on a terrain of your choice.";
+onLoadName = "Warzone 2";
+dev = "dev";
+author = "Pterolatypus";
+overviewText = "A procedurally generated campaign leading a BluFor army against an OpFor occupation. Earn resources to buy new assets, lead a squad and command AI forces to win the war.";
+
+class CfgFunctions {
+  #include "TW\CfgFunctions.hpp"
+};
